@@ -51,7 +51,7 @@
 						<!-- Collect the nav links, forms, and other content for toggling -->
 						<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 							<ul class="nav navbar-nav navbar-right">
-								<li><a href="index.html">首頁</a></li>
+								<li><a href="index.php">首頁</a></li>
 								<li><a href="about.html">關於我們</a></li>
 								<li><a href="services.html">服務項目</a></li>
                                 <li><a href="gallery.html">作品集</a></li>
