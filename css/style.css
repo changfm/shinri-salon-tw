@@ -4,11 +4,13 @@ body{
 }
 @font-face {
       font-family: 'Roboto-Regular';
-      src: url(../fonts/moon.ttf) format('truetype');
+      src: url(../fonts/moon.ttf) format('truetype'),
+            url(../fonts/moon.woff) format('woff');
 }
 @font-face {
       font-family: 'Playball-Regular';
-      src: url(../fonts/moon.ttf) format('truetype');
+      src: url(../fonts/moon.ttf) format('truetype'),
+            url(../fonts/moon.woff) format('woff');
 }
 body a{
 	transition: 0.5s all ease;
