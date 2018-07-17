@@ -54,7 +54,7 @@
 								<li><a href="index.php">首頁</a></li>
 								<li><a href="about.html">關於我們</a></li>
 								<li><a href="services.html">服務項目</a></li>
-                                <li><a href="product.html">產品介紹</a></li>
+                                <li><a href="product.html">商品介紹</a></li>
                                 <li><a href="gallery.html">作品集</a></li>
 								<li><a href="contact.html">聯絡我們</a></li>
 							</ul>	
