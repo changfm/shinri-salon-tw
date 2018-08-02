@@ -96,10 +96,23 @@
 						    <p>致力於提供「美、健康、感動」的服務。</p>
                             <p>全系列商品以對人體與環境無害、降低對髮質與肌膚傷害為目標研發製成</p>
 						</li>
+                        
 					</ul>
 				</div>
 		</div>
 	</div>
 	<!--//banner-->
 </body>
+    <bottom>			
+        <li><br><br>
+        <br>copyright @2018 shinri salon
+        <br>版權所有，轉載必究<br>
+       
+        <br>森里沙龍 Shinri Salon
+        <br>預約專線：07-3358136
+        <br>聯絡信箱：shinri.tw@gmail.com
+        <br>地址：高雄市苓雅區福建街209號
+        
+        
+        </li></bottom>
 </html>
