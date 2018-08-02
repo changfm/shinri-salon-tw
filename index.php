@@ -104,7 +104,7 @@
 	<!--//banner-->
 </body>
     <bottom>			
-        <li><br><br>
+        <li><center><br>
         <br>copyright @2018 shinri salon
         <br>版權所有，轉載必究<br>
        
@@ -113,6 +113,6 @@
         <br>聯絡信箱：shinri.tw@gmail.com
         <br>地址：高雄市苓雅區福建街209號
         
-        
+            </center>
         </li></bottom>
 </html>
