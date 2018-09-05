@@ -1123,6 +1123,16 @@ img {
   max-width: 100%;
   height: auto;
 }
+
+.img-facebook,
+{
+  display: block;
+  height: 10px;
+width: 10px;
+
+}
+
+
 .img-rounded {
   border-radius: 6px;
 }
