@@ -104,7 +104,7 @@
 	<!--//banner-->
 </body>
     <bottom>			
-        <li><center><br>
+        <center><br>
         <br>copyright @2018 shinri salon
         <br>版權所有，轉載必究<br>
        
@@ -112,7 +112,9 @@
         <br>預約專線：07-3358136
         <br>聯絡信箱：shinri.tw@gmail.com
         <br>地址：高雄市苓雅區福建街209號
-        
-            </center>
-        </li></bottom>
+        <br>
+            <a href="https://www.facebook.com/日本森里沙龍台灣總店-2036230656448319/"><img class="img-facebook" src="images/facebook.jpg" alt="img02" /></a>
+          <a href=><img class="img-facebook" src="images/line.jpeg" " /></a>   
+        </center>
+        </bottom>
 </html>
