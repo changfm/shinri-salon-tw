@@ -114,7 +114,10 @@
         <br>地址：高雄市苓雅區福建街209號
         <br>
             <a href="https://www.facebook.com/日本森里沙龍台灣總店-2036230656448319/"><img class="img-facebook" src="images/facebook.jpg" alt="img02" /></a>
+<<<<<<< HEAD
           <a href=><img class="img-facebook" src="images/line.jpeg" " /></a>   
+=======
+>>>>>>> 187a4375528f092fe9effa26e7c54cfa10726d0f
         </center>
         </bottom>
 </html>
