@@ -114,7 +114,8 @@
         <br>聯絡信箱：shinri.tw@gmail.com
         <br>地址：高雄市苓雅區福建街209號
         <br>
-            <a href="https://shopee.tw/shop/134806054"><img class="img-facebook" width="19" height="19" src="images/shopee.jpg" /></a>   
+            <a href="https://shopee.tw/shop/134806054"><img class="img-facebook" width="19" height="19" src="images/shopee.jpg" /></a>
+			<a href="http://shinri.pixnet.net/blog"><img class="img-facebook" width="19" height="19" src="images/pix.png" /></a>      
             <a href="https://www.facebook.com/日本森里沙龍台灣總店-2036230656448319/"><img class="img-facebook" src="images/facebook.jpg" alt="img02" /></a>
 
           <a href=""><img class="img-facebook" src="images/line.jpeg" /></a>   
